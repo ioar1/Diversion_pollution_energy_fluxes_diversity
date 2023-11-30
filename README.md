@@ -1,5 +1,5 @@
 # Overview
-This is the accompanying research data and code for the paper de Guzman et al. (xxxx) - River food web energy fluxes, energy transfer efficiency and diversity respond distinctively to pollution and water diversion published in Freshwater Biology. https://XXXXXX
+This is the accompanying research data and code for the paper de Guzman et al. (xxxx) - "Food web energy fluxes, energy transfer efficiency and diversity respond distinctively to pollution and water diversion in rivers" published in Freshwater Biology. https://XXXXXX
 
 A study was conducted to assess the effects of water diversion, pollution and their interaction on stream food webs structure and on ecosystem functioning by selecting 4 streams differing in their water pollution level (in a range from low to moderate pollution) and with a similar water diversion scheme consisting of a low weir.
 
